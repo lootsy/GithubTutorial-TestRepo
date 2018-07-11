@@ -4,7 +4,7 @@ für Magnus bzw. Simon, um Commits/PullRequests für lernOS bereizustellen.
 
 und alle anderen ;-)
 
-Hier geht's zum [Wiki](wiki).
+Hier geht's zum [Wiki](https://github.com/lootsy/GithubTutorial-TestRepo/wiki).
 
 ## Schritte
 
