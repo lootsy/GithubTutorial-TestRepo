@@ -4,6 +4,8 @@ für Magnus bzw. Simon, um Commits/PullRequests für lernOS bereizustellen.
 
 und alle anderen ;-)
 
+Hier geht's zum [Wiki](wiki).
+
 ## Schritte
 
 - dieses Repo forken
