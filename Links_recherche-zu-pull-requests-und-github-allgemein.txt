@@ -1,0 +1,18 @@
+
+https://help.github.com/articles/creating-a-pull-request-from-a-fork/
+https://help.github.com/articles/about-pull-requests/
+https://help.github.com/articles/creating-a-pull-request/
+https://help.github.com/articles/about-forks/
+
+
+https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
+
+
+GitHub Workflow Tutorial [Deutsch] Von Issue bis Pull Request
+https://www.youtube.com/watch?v=hSbJaIdqwKg
+
+
+https://www.youtube.com/watch?v=xyTS2yyOWnA
+https://www.youtube.com/watch?v=Nkz7TnhFvWU
+
+https://www.udemy.com/github-tutorial-deutsch/
