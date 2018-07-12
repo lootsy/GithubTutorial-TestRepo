@@ -16,5 +16,3 @@ https://www.youtube.com/watch?v=xyTS2yyOWnA
 https://www.youtube.com/watch?v=Nkz7TnhFvWU
 
 https://www.udemy.com/github-tutorial-deutsch/
-
-Using GitHub with Mercurial and TortoiseHG: https://www.ryadel.com/en/using-github-with-mercurial-and-tortoisehg/
