@@ -22,11 +22,3 @@ Hier bitte alle Fragen notieren.... Danke!
 - bla bla bla
 
 
-## Magnus ToDo
-
-- *ok* dieses Repo forken
-- *ok* eigenen Fork clonen (lokal auf den Rechner bringen)
-- *ok* etwas ändern
-- committen
-- zum eigenen Fork pushen
-- auf Github einen PR vom Fork ins "upstream" Repo erstellen
